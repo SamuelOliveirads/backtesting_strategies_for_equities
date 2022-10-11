@@ -57,7 +57,3 @@ My strategy to solve this challenge was:
 # 9. Lessons Learned
 
 # 10. Next Steps to Improve
-
-# LICENSE
-
-# All Rights Reserved - Comunidade DS 2022
